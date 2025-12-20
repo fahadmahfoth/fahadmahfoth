@@ -8,11 +8,18 @@ With experience in **Django**, **Flutter**, and **DevOps**, I focus on creating 
 ---
 
 ### 🧩 About Me
-- 💡 I specialize in **backend development** using Python/Django and RESTful APIs.
-- 📱 Skilled in **Flutter & Dart** for mobile app development.
-- 🌍 Experienced in **cloud deployment**, **server management**, and **DevOps automation**.
-- 🧱 Strong understanding of **UI/UX principles**, working closely with designers and product owners.
-- 📈 Always learning new technologies to enhance productivity and scalability.
+- 🚀 I design and build complete software products, from idea to production.
+- 🏗️ Worked on SaaS platforms, ERP systems, job portals, business platforms, and mobile applications used in real environments.
+- 🔄 Experienced in full-stack system architecture, backend logic, APIs, mobile integration, and production deployment.
+- 🎯 My work is driven by scalability, clarity, and real business impact, not just tools or trends.
+
+---
+
+### 🚧 Selected Projects
+- FINtrack – Personal finance & budgeting platform
+- MenuScan – SaaS e-menu platform for restaurants
+- IIBC Platform – Multi-module business council system
+- University Management System – Postgraduate & student services
 
 ---
 
