@@ -33,7 +33,6 @@ With experience in **Django**, **Flutter**, and **DevOps**, I focus on creating 
 
 ###  Recent Work
 -  [Lamer Iraq](https://lameriraq.com/) — Real estate digital platform  
--  [Alghadeer Real Estate](https://www.alghadeerrealestate.com/) — Property management and sales system
 -  [Store IQ](https://storeiq.shop) - Store IQ
 -  [Menu Scan](https://menuscaniq.com) Menu Scan
 -  Developed over **40+ digital projects** for companies in different industries  
